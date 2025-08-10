@@ -40,12 +40,12 @@ import "swiper/css";
 import "swiper/css/autoplay";
 
 const promos = [
-    "/images/trian_1.png",
-    "/images/trian_2.png",
-    "/images/trian_3.png",
-    "/images/trian_1.png",
-    "/images/trian_2.png",
-    "/images/trian_3.png",
+    "images/trian_1.png",
+    "images/trian_2.png",
+    "images/trian_3.png",
+    "images/trian_1.png",
+    "images/trian_2.png",
+    "images/trian_3.png",
 ];
 </script>
 
